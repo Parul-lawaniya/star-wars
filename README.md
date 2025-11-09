@@ -125,6 +125,9 @@ star/
 ├── postcss.config.js      # PostCSS configuration
 └── README.md              # Project documentation
 ```
+## Bonus Points
+1. Added the Login and Logout Functionality
+2. Added the search Bar
 
 ## Authentication
 
@@ -275,15 +278,6 @@ No environment variables are required. The application uses the public SWAPI API
 npm run build
 ```
 
-### Deploy to Static Hosting
-The built files in the `dist` folder can be deployed to any static hosting service:
-- Vercel
-- Netlify
-- GitHub Pages
-- AWS S3
-- Azure Static Web Apps
-
-## Troubleshooting
 
 ### Common Issues
 
